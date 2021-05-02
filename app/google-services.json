@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295976923850",
+    "project_id": "chatmyway-3d769",
+    "storage_bucket": "chatmyway-3d769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295976923850:android:62f85645690419d9cc3a33",
+        "android_client_info": {
+          "package_name": "com.example.chatmyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295976923850-qk0dp49d6jao0ur4jq9lq7fcn0ifjaft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIXlIThqEI8oExer-z6NPnt9eKnRUPow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295976923850-qk0dp49d6jao0ur4jq9lq7fcn0ifjaft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
